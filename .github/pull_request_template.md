@@ -23,10 +23,6 @@ Please provide the list of Browser that you have used for testing
 - [ ] Devices
 
 
-**List the Opti Native Files Override**:
-* File Name :
-* Purpose : 
-
 **List the New Custom Files Added**:
 * File Name :
 * Purpose : 
