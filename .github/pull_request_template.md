@@ -37,7 +37,7 @@ Please provide the list of Browser that you have used for testing
 - [ ] Validate the end-to-end flow and ensure that my new changes does not break existing implementation.
 - [ ] Validated the code does not impact the current performance.
 
-# How Has This Been Tested?
+# Steps to test the changes?
 Please describe the tests that you ran to verify your changes. Provide instructions so we can test the changes.
 
 - [ ] Step  1
