@@ -19,11 +19,10 @@ Please provide the list of Browser that you have used for testing
 
 - [ ] Chrome 
 - [ ] Edge 
-- [ ] Firefox
 - [ ] Devices
 
 
-**List the New Custom Files Added**:
+**List the New Custom Files Added and their purpose**:
 * File Name :
 * Purpose : 
 
