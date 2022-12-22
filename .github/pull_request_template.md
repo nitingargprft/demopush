@@ -24,6 +24,7 @@ Please provide the list of Browser that you have used for testing
 
 **List the New Custom Files Added and their purpose**:
 * File Name :
+* Is Opti Native File :  (Yes/No)
 * Purpose : 
 
 # Checklist:
