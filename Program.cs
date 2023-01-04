@@ -10,7 +10,7 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            //This is test code
+            //This is test code with linting
             Console.WriteLine("Pr Template Test2");
         }
     }
