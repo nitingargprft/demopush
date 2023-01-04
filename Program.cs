@@ -11,6 +11,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             //This is test code with linting
+            var abc = "";
             Console.WriteLine("Pr Template Test2");
         }
     }
